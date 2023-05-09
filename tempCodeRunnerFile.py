@@ -1,1 +1,0 @@
-self.monster_coin_count
